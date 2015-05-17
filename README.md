@@ -1,3 +1,4 @@
 # TestGit
 Repository for testing git and sourcetree
-Just Changed 
+Changed 
+Add other changes
